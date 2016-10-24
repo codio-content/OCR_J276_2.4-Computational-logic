@@ -1,0 +1,100 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2446289956",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Complete the following sentences by selecting the missing words.**",
+   "points": "1",
+   "showValues": true,
+   "text": "In the control system there are <<<four>>> switches. The system has a master switch labelled <<<D>>> in the diagram. The system will start if any of the switches <<<A>>> or <<<B>>> or <<<C>>> are switched on but only if the master switch is on.",
+   "tokens": {
+    "blank": [
+     "four",
+     "D",
+     "A",
+     "B",
+     "C"
+    ],
+    "text": [
+     "In the control system there are ",
+     0,
+     " switches. The system has a master switch labelled ",
+     0,
+     " in the diagram. The system will start if any of the switches ",
+     0,
+     " or ",
+     0,
+     " or ",
+     0,
+     " are switched on but only if the master switch is on."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2835125764",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Complete the truth table for this logic diagram.**\nStudents to enter answer.",
+   "points": "1",
+   "showValues": false,
+   "text": "|**A** |**B**|**C** |**D**|**P**| \n| :-: | :-: |:-: | :-: |:-: |\n|0|0|0|0|<<<0>>>|\n|0|0|0|1|<<<0>>>|\n|0|0|1|0|<<<0>>>|\n|0|0|1|1|<<<1>>>|\n|0|1|0|0|<<<0>>>|\n|0|1|0|1|<<<1>>>|\n|0|1|1|0|<<<0>>>|\n|0|1|1|1|<<<1>>>|\n|1|0|0|0|<<<0>>>|\n|1|0|0|1|<<<1>>>|\n|1|0|1|0|<<<0>>>|\n|1|0|1|1|<<<1>>>|\n|1|1|0|0|<<<0>>>|\n|1|1|0|1|<<<1>>>|\n|1|1|1|1|<<<1>>>|",
+   "tokens": {
+    "blank": [
+     "0",
+     "0",
+     "0",
+     "1",
+     "0",
+     "1",
+     "0",
+     "1",
+     "0",
+     "1",
+     "0",
+     "1",
+     "0",
+     "1",
+     "1"
+    ],
+    "text": [
+     "|**A** |**B**|**C** |**D**|**P**| \n| :-: | :-: |:-: | :-: |:-: |\n|0|0|0|0|",
+     0,
+     "|\n|0|0|0|1|",
+     0,
+     "|\n|0|0|1|0|",
+     0,
+     "|\n|0|0|1|1|",
+     0,
+     "|\n|0|1|0|0|",
+     0,
+     "|\n|0|1|0|1|",
+     0,
+     "|\n|0|1|1|0|",
+     0,
+     "|\n|0|1|1|1|",
+     0,
+     "|\n|1|0|0|0|",
+     0,
+     "|\n|1|0|0|1|",
+     0,
+     "|\n|1|0|1|0|",
+     0,
+     "|\n|1|0|1|1|",
+     0,
+     "|\n|1|1|0|0|",
+     0,
+     "|\n|1|1|0|1|",
+     0,
+     "|\n|1|1|1|1|",
+     0,
+     "|"
+    ]
+   }
+  }
+ }
+]

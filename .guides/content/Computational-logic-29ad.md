@@ -1,0 +1,1 @@
+In this lesson we will look at why data is represented in computer systems in binary form, simple logic diagrams and truth tables and applying logical operators in appropriate truth tables to solve problems.

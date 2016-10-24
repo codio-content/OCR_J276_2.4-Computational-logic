@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "29ade6d7-0127-d8a6-b663-799809d0fd8e",
+   "title": "Computational logic",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computational-logic-29ad.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6bc8f845-8d0b-21e9-d6bb-3e5353eb5aef",
+   "title": "Binary form",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-form-6bc8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9eed71c4-c4ee-d712-f3e2-8e3dd4b5b64a",
+   "title": "Logic problems",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logic-problems-9eed.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e5de8a35-6b8b-2162-bbdf-b0f786d176bc",
+   "title": "Logic gates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logic-gates-e5de.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "23ce6533-394b-859a-3f7e-d74fbdf34b71",
+   "title": "Evaluation of Boolean statements",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Evaluation-of-Boolean-statements-23ce.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "255d157e-5d6e-db19-3781-203bd124ce8e",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-255d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a46852a4-148c-2a5a-12bd-c74be1a86f20",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-a468.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
